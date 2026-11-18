@@ -1,21 +1,3 @@
-——\
-**Title:** Introduction to Markdown\
-**Type:** README file\
-**Level:** Beginner\
-**topics:**
-
-  - markdown
-
-  - writing
-
-  - documentation
-
-**technologies:**
-
-  - markdown
-
-——
-
 # Introduction to Markdown
 
 ## Exploring Markdown
@@ -37,7 +19,7 @@ The aim is not simply to learn how to format text. We are interested in what bec
 
 ## Why explore Markdown?
 
-Markdown offers an accessible entry point into computational practices. It does not require advanced programming knowledge, yet it introduces ways of thinking about structure, relationships, documentation, and the organization of information.
+Markdown offers an accessible entry point into computational practices. It does not require advanced programming knowledge, yet it introduces ways of thinking about structure, relationships, documentation, and information organization.
 
 For ethnographic research, it can become a practical infrastructure for field diaries, research logs, methodological documentation, and collaborative archives.
 

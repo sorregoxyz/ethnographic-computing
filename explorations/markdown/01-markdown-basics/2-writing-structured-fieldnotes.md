@@ -1,10 +1,23 @@
+---
+title: Writing Structured Fieldnotes
+type: exploration
+level: beginner
+topics:
+- markdown
+- fieldnotes
+- structured writing
+- research-documentation
+technologies: 
+- markdown
+---
+
 # Writing Structured Fieldnotes
 
 ## Exploring Structured Fieldnotes
 
 [Fieldnotes](https://williamwolff.org/wp-content/uploads/2016/01/emerson-fieldnotes-2011.pdf) are among the fundamental materials of ethnographic research. They record encounters, observations, conversations, impressions, questions, descriptions, and reflections emerging from fieldwork.
 
-But fieldnotes are not simply records of what happened. Their organization influences what we notice, what we remember, what we consider relevant, and how we return to our observations.
+But fieldnotes are not simply records of what happened. Their organization shapes what we notice, remember, consider relevant, and how we return to our observations.
 
 In this exploration, we experiment with Markdown as a format for writing and organizing ethnographic fieldnotes.
 
@@ -14,7 +27,7 @@ The aim is not to establish a universal template. Instead, we investigate how di
 
 A fieldnote can be a continuous narrative, a chronological record, an inventory, a collection of fragments, or a combination of these.
 
-Markdown allows us to bring different forms of writing together within a single document. We can combine:
+Markdown lets us bring different forms of writing together in a single document. We can combine:
 
 - Narrative descriptions and observations.
 - Dates, times, and locations.
@@ -23,6 +36,7 @@ Markdown allows us to bring different forms of writing together within a single 
 - Questions and preliminary interpretations.
 - Reflexive comments.
 - Links to photographs, audio recordings, maps, and other materials.
+- Self-made metadata.
 
 These elements can be organized through headings, paragraphs, lists, quotations, tables, and links.
 
@@ -68,7 +82,7 @@ Some observations may require extensive narrative descriptions. Others may be be
 
 You might develop a recurring structure for a particular research project, while allowing individual entries to depart from it whenever necessary.
 
-The challenge is to find a balance between consistency and openness: enough structure to make materials navigable and comparable, but enough flexibility to accommodate the unexpected.
+The challenge is to balance consistency and openness: enough structure to make materials navigable and comparable, but enough flexibility to accommodate the unexpected.
 
 ---
 ## Further possibilities
@@ -79,4 +93,4 @@ Individual entries can be linked to one another, organized into folders, searche
 
 This opens up possibilities for treating fieldnotes not only as written accounts of fieldwork, but also as components of a broader research infrastructure.
 
-The next exploration considers how metadata and frontmatter can help describe, identify, and organize these documents.
+The next exploration considers how metadata and front matter can help describe, identify, and organize these documents.

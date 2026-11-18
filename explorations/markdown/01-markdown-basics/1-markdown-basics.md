@@ -1,14 +1,24 @@
+---
+title: Markdown Basics
+type: exploration
+level: beginner
+topics:
+- markdown
+- structured writing
+- research-documentation
+technologies: 
+- markdown
+---
+
 # Markdown Basics
 
 ## Introduction
 
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language that allows us to create structured documents using plain text. Instead of relying on visual formatting tools, Markdown uses a simple system of symbols to define headings, lists, links, images, quotations, and other elements.
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language that allows us to create structured documents using plain text. Instead of relying on visual formatting tools—such as Word—Markdown uses a simple system of symbols to define headings, lists, links, images, quotations, and other elements.
 
-Markdown files use the .md extension and can be opened with any ordinary text editor. They can also be rendered into formatted documents by platforms such as GitHub.
+Markdown files use the .md extension and can be opened with any ordinary text editor. Platforms such as GitHub can also render them into formatted documents.
 
 In this exploration, we will learn the fundamental Markdown syntax and experiment with creating our first structured document.
-
-Rather than using generic examples, we will work with fragments of an imaginary ethnographic fieldnote. This will allow us to consider Markdown not only as a formatting language, but also as a practical tool for organizing research materials.
 
 
 ## Where can you write Markdown?
@@ -40,7 +50,7 @@ Some applications are specifically designed for writing and organizing Markdown 
 
 Code editors provide a more extensive environment for working with Markdown and other digital materials.
 
-- **Visual Studio Code**: a free editor with built-in Markdown support, syntax highlighting, and a live preview. It is particularly useful when working with Markdown alongside CSV files, images, HTML, CSS, JavaScript, and other research materials. **highly recommended for working around this lab**
+- **Visual Studio Code**: a free editor with built-in Markdown support, syntax highlighting, and a live preview. It is particularly useful when working with Markdown alongside CSV files, images, HTML, CSS, JavaScript, and other research materials. **This one is highly recommended for working around this lab**
 
 ### Online editors
 
@@ -148,16 +158,14 @@ Use numbers followed by periods.
 3. Record the encounter.
 4. Take photographs.
 
-Lists can be useful for organizing inventories, observations, materials, procedures, and sequences of events.
-
-Experiment: Create an inventory of five things you notice in a particular place. Then create a numbered list describing a sequence of events.
+Lists can help organize inventories, observations, materials, procedures, and sequences of events.
 
 ## 6. Blockquotes
 
 Use the greater-than symbol (>) to create a blockquote.
 
-> The shade beneath the tree is considerably cooler
-> than the surrounding pavement.
+> This is a sample of a blockquote.
+> You can add multiple lines.
 
 Blockquotes can be used for quotations, fragments of conversations, extracts from documents, or observations you want to distinguish from your own commentary.
 
@@ -209,7 +217,7 @@ Three hyphens, asterisks, or underscores can create a horizontal rule.
 
 ---
 
-Horizontal rules can be useful for visually separating sections of a document.
+Horizontal rules can help visually separate sections of a document.
 
 ## 10. Tables
 
