@@ -9,6 +9,7 @@ topics:
 - research-documentation
 technologies: 
 - markdown
+Latest update: 2026-11-18
 ---
 
 # Writing Structured Fieldnotes

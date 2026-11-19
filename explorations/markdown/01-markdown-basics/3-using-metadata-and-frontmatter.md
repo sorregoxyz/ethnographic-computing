@@ -10,6 +10,7 @@ topics:
 technologies: 
 - markdown
 - Yaml
+Latest update: 2026-11-18
 ---
 
 # Using Metadata and Frontmatter
@@ -95,7 +96,7 @@ This format follows the order year-month-day, making dates easier to compare and
 Values containing spaces can be written without quotation marks, although quotation marks can be useful when values contain special characters.
 
     title: An Afternoon Near the River
-
+    
     researcher: "Santiago Orrego"
 
 The important thing is to maintain consistent formatting throughout a collection.

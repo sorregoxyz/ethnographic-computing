@@ -8,6 +8,7 @@ topics:
 - research-documentation
 technologies: 
 - markdown
+Latest update: 2026-11-17
 ---
 
 # Markdown Basics
